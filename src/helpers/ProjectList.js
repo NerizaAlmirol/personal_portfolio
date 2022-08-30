@@ -1,6 +1,6 @@
 import fatweb from '../assets/fatweb.jpg';
 
-export const projectList = [
+export const ProjectList = [
     {
         name : "FatWeb",
         image: fatweb,
