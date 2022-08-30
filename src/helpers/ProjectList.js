@@ -4,11 +4,8 @@ export const ProjectList = [
     {
         name : "FatWeb",
         image: fatweb,
+        skills: "JavaScript,HTML,CSS",
 
     },
-    {
-        name : "FatWeb",
-        image: fatweb,
 
-    },
-]
+];
