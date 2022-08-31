@@ -14,7 +14,7 @@ function Footer() {
             <FacebookIcon />
             <LinkedInIcon />
         </div>
-        <p> &copy; 2022 nerizaalmirol.com</p>
+        <p> &copy; 2022 <a href="https://www.linkedin.com/in/neriza-almirol/">Neriza Almirol</a></p>
     </div>
   )
 }
