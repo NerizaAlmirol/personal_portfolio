@@ -1,5 +1,6 @@
 {
   "name": "personal_portfolio",
+  "homepage": "https://nerizaalmirol.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

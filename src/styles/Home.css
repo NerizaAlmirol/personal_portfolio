@@ -13,25 +13,25 @@
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-color: #f1e2ca;
-    color: #31302c;
+    background-color: #335449;
+    color: #fff;
   }
   
   .about h2 {
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
     font-size: 70px;
-    color: #ff6145;
+    color: #edbcc0;
     height: 30px;
 }
   
   .about .prompt {
     width: 40%;
-    font-size: 30px;
+    font-size: 28px;
   }
   .prompt svg {
     font-size: 40px;
     margin: 5px;
-    color: #3d9c76;
+    color: #fff;
   }
   
   .skills {
