@@ -1,7 +1,7 @@
 .footer {
     width: 100%;
     height: 200px;
-    background: #dda797;
+    background: #FBF9F9;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -13,19 +13,19 @@
   .socialMedia svg {
     margin: 20px;
     cursor: pointer;
-    font-size: 40px;
+    font-size: 20px;
     margin: 5px;
-    color: #3d9c76;
+    color: #303D37;
 }
   
 .footer p {
-  color: #31302c;
+  color: #353535;
   font-weight: 600;
 }
 
 .footer a {
   text-decoration: none;
-  color: #31302c;
+  color: #303D37;
   font-weight: 600;
 }
   

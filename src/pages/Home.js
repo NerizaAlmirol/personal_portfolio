@@ -28,7 +28,7 @@ function Home() {
           <li className="item">
             <h2> Front-End</h2>
             <span>
-              ReactJS, Redux, HTML, CSS, React Native, Flutter, NPM,
+              ReactJS, HTML, CSS, React Native, Flutter, Gatsby,
               Ionic, BootStrap, MaterialUI, Yarn, TailwindCSS, StyledComponents
             </span>
           </li>
