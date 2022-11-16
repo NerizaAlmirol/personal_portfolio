@@ -11,9 +11,15 @@ function Home() {
         <h2> Hi, My Name is Neriza</h2>
         <div className="prompt">
           <p>I'm a Software Engineer and a Food Blogger based in Barcelona.</p>
+          <a href="https://www.linkedin.com/in/neriza-almirol/"  target="_blank">
           <LinkedInIcon />
+          </a>
+          <a href="mailto:hello@nerizaalmirol.com">
           <EmailIcon />
+          </a>  
+          <a href="https://github.com/NerizaAlmirol"  target="_blank">
           <GithubIcon />
+          </a>
         </div>
       </div>
       <div className="skills">
