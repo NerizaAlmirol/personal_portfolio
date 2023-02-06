@@ -18,9 +18,9 @@ function Experience() {
         icon={<SchoolIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Carlos F. Gonzales High School
+            University of the Philippines
           </h3>  
-          <p>High School Diploma</p>
+          <p>Bachelor of Arts of Multimedia Studies</p>
         </VerticalTimelineElement>
         <VerticalTimelineElement className="vertical-timeline-element--education"
         date="2000 - 2006"
