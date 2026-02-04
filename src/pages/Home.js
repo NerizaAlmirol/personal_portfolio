@@ -10,7 +10,8 @@ function Home() {
       <div className="about">
         <h2 className="typewriter-animation"> Hi, My Name is Neriza</h2>
         <div className="prompt">
-          <p>I'm a Software Engineer and a Food Blogger based in Barcelona.</p>
+          <p>I help product and engineering teams deliver complex work with clarity and confidence.</p>
+          <p>Agile delivery & technical program consulting for scaling teams and organizations.</p>
           <a href="https://www.linkedin.com/in/neriza-almirol/"  target="_blank">
           <LinkedInIcon />
           </a>
